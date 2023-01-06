@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 aaaaa
 bbbb
-=======
-aaaa
-111111
->>>>>>> 86a8ccf... 更新了exam.txtexam.txt
